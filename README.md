@@ -1,2 +1,3 @@
-# bgccf-learn-to-solder
-Learn To Solder Badge for Boys &amp; Girls Clubs of Central Florida
+# Learn to Solder Program for Boys & Girls Clubs of Central Florida
+
+This repo contains the badge files in Eagle format, as well as PDFs
