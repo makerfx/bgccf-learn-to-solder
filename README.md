@@ -4,7 +4,7 @@ This repo contains the badge files in Eagle format, as well as PDFs
 
 [Program photos on Flickr](https://flic.kr/s/aHsmT5kPub)
 
-This program initially funded by 
+This program initially funded by a grant through the Orlando Economic Partnership.
 
 ![BGCCF Learn to Solder Badge render](/images/pin_pcb.png)
 
