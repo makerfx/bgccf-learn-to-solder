@@ -2,6 +2,10 @@
 
 This repo contains the badge files in Eagle format, as well as PDFs
 
+[Program photos on Flickr](https://flic.kr/s/aHsmT5kPub)
+
+This program initially funded by 
+
 ![BGCCF Learn to Solder Badge render](/images/pin_pcb.png)
 
 
