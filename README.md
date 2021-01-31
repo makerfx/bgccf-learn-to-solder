@@ -14,3 +14,6 @@ This program initially funded by a grant through the Orlando Economic Partnershi
 
 ![BGCCF Learn to Solder Badge render](/images/bgccf-lts-training.jpg)
 
+
+This project is funded in part by Orange County Government through the Arts & Cultural Affairs Program.
+This project is funded in part by The Orlando Economic Partnership
